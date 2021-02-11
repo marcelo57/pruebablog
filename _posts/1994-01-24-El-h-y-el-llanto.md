@@ -3,7 +3,7 @@ layout: post
 categories: poem
 ---
 
-#el hongo y el llanto
+# el hongo y el llanto
 
 pensar cosas tristes hace al cuerpo llorar
 
