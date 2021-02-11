@@ -21,6 +21,7 @@ ya no son cristianos
 
 y cuando el hizo eso, todos lo miramos
 
+---
 
 y a los pastores ya no se les puede ni hablar
 
@@ -40,6 +41,7 @@ miercoles y viernes 20hrs
 
 domnigo 17hrs
 
+---
 
 dios como
 
@@ -63,7 +65,7 @@ pero es inmortal mientras no se extinga es modo de vida que
 
 vive lo misme que viva el lenguaje
 
-
+---
 sí, antes mi canto desagradaba porque no podia pronunciar
  algunas palabras
 
@@ -102,6 +104,8 @@ y por eso hoy todos pronuncian como yo
 se acerca el dia del juicio
 
 y ese juicio va a ser tremendo hermano
+
+---
 
 estudiar las formas de aprendisaje autonomo
 
