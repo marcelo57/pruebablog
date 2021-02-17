@@ -7,9 +7,6 @@ categories: filo
 
 
 
-# La Realidad
-
-
 Nuestro predecesor, el “homo sapiens” tomó una larga vuelta para descubrirla y comprenderla:
 **R**
 
@@ -28,4 +25,4 @@ En el caso de nuestra inclusión en la ecuación, es el carácter o configuraci�
 
 ## R = n’
 
-<img src="abstracciones necesarias.jpg" width="500"/>
+<img src="/archivos/abstracciones_necesarias.jpg" width="500"/>
