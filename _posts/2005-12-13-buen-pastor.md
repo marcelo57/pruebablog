@@ -1,5 +1,5 @@
 ---
-layout: jaja
+layout: post
 ---
 # yo conozco a los demonios que me llevan al infierno
 
