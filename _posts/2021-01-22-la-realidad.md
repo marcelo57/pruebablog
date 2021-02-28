@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title:  "La Realidad"
 date:   2021-02-04 04:04:18 -0300
 categories: filo
