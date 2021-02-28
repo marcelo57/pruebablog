@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Collage"
+title:  "Collage Emilia"
 ---
+
+*Emilia*
 
 
 <img src="/pruebablog/archivos/collage_emilia" />

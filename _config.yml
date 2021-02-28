@@ -21,11 +21,11 @@
 title: wena nico
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  sitio con ideas para no pensar nunca más
+  la contencion de las expresiones de muchos mundos en una pagina web
 baseurl: "pruebablog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username:
+github_username:
 
 # Build settings
 remote_theme: riggraz/no-style-please
@@ -35,6 +35,7 @@ theme_config:
   back_home_text: "atrás" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description in home page
+  show_author: true
 
 sass:
   style: :compressed
