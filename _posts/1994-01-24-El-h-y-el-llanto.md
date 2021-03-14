@@ -2,9 +2,8 @@
 layout: postaudio
 categories: poem
 file: /pruebablog/archivos/bombo_arriba_acordes_2.mp3
+title: `H` y el llanto
 ---
-
-# el hongo y el llanto
 
 pensar cosas tristes hace al cuerpo llorar
 
@@ -12,10 +11,9 @@ provocar el llanto en el cuerpo
 
 nos hace pensar cosas tristes
 
-
 los procesos de desintoxicación
 
-que desencadena el hongo
+que desencadena el `H`
 
 nos hacen purgar
 
@@ -26,4 +24,5 @@ se sueltan los conductos de la tristeza
 y se desbloquean las emociones tapadas
 
 que nos regalan al fin
+
 la tristeza
