@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: post2
 title:  "Collage Emilia"
+author: Emilia
 ---
 
-*Emilia*
 
 
-<img src="/pruebablog/archivos/collage_emilia.jpg" />
+
+<img src="/pruebablog/archivos/collage_emilia3.jpg" />
