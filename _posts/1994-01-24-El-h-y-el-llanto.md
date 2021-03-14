@@ -2,7 +2,6 @@
 layout: postaudio
 categories: poem
 file: /pruebablog/archivos/bombo_arriba_acordes_2.mp3
-title: H y el llanto
 ---
 
 pensar cosas tristes hace al cuerpo llorar
