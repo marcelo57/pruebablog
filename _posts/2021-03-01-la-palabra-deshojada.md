@@ -1,7 +1,7 @@
 ---
 layout: post2
 title:  "la palabra deshojada"
-author: *Marcelo Sanhueza Vallejos*
+author: Marcelo Sanhueza Vallejos
 ---
 
 
