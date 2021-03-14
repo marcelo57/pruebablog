@@ -6,4 +6,4 @@ title:  "Collage Emilia"
 *Emilia*
 
 
-<img src="/pruebablog/archivos/collage_emilia" />
+<img src="/pruebablog/archivos/collage_emilia.jpg" />

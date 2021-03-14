@@ -3,8 +3,6 @@ layout: post
 ---
 # yo conozco a los demonios que me llevan al infierno
 
-![](/pruebablog/archivos/bombo_arriba_acordes_2.mp3)
-
 Historia de un pastor
 
 que apadrina un niño con sindrome de down

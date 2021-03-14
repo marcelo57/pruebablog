@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: postaudio
 categories: poem
+file: /pruebablog/archivos/bombo_arriba_acordes_2.mp3
 ---
 
 # el hongo y el llanto

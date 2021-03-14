@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: wena nico
-email: your-email@example.com
+title: mecanismo generativo
+email:
 description: >- # this means to ignore newlines until "baseurl:"
-  la contencion de las expresiones de muchos mundos en una pagina web
+  la contención de las expresiones de muchos mundos en una página web
 baseurl: "pruebablog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
@@ -43,7 +43,7 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-spaceship
+
 
 
 # Exclude from processing.
