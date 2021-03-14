@@ -4,6 +4,10 @@ entries:
     entries:
       - title: porque si
         url: www.wikipedia.com
+      - title: introducción a la primera edición anotada
+        url: https://www.wikipedia.com
+      - title: Contactate
+        url: www.wikipedia.com
 
   - title: perturbaciones
     post_list: true
