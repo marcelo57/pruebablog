@@ -7,12 +7,12 @@ author: Mar_celo
 
 ## índice
 - [Consulta](#consulta)
-- [Devenir con ganas!](#devenir-con-ganas!)
+- [Devenir con ganas!](#devenir-con-ganas)
 - [Y en un auto feo](#y-en-un-auto-feo)
 - [hijo](#hijo)
 - [Ya estábamos perdiendo la esperanza](#ya-estábamos-perdiendo-la-esperanza)
 - [A lxs poetxs](#a-lxs-poetxs)
-- [Nunca lo haras como otros, pero nadie lo hara como tú](nunca-lo-haras-como-otros,-pero-nadie-lo-hara-como-tú)
+- [Nunca lo haras como otros, pero nadie lo hara como tú](nunca-lo-haras-como-otros)
 - [Nodos](#nodos)
 - [Gracias a dios](#gracias-a-dios)
 
