@@ -3,7 +3,6 @@ layout: post2
 title: En esta vida podríamos ser libres
 author: Mar_celo
 ---
-<br>
 
 ## índice
 - [Consulta](#consulta)
@@ -12,7 +11,7 @@ author: Mar_celo
 - [hijo](#hijo)
 - [Ya estábamos perdiendo la esperanza](#ya-estábamos-perdiendo-la-esperanza)
 - [A lxs poetxs](#a-lxs-poetxs)
-- [Nunca lo haras como otros, pero nadie lo hara como tú](#nunca-lo-harás-como-otros,-pero-nadie-lo-hará-como-tú)
+- [Nunca lo harás como otros, pero nadie lo hará como tú](#nunca-lo-harás-como-otros-pero-nadie-lo-hará-como-tú)
 - [Nodos](#nodos)
 - [Gracias a dios](#gracias-a-dios)
 
