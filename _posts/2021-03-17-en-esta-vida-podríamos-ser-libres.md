@@ -101,6 +101,8 @@ yo voy por el camino viejo
 
 así podemos estar más tiempo juntos
 
+mirar por la ventana sin marearnos
+
 y sentir cada centímetro de suelo
 
 porque cuando lleguemos
