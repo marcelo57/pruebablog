@@ -6,10 +6,19 @@ author: Mar_celo
 <br>
 
 ## índice
-- [nodos](#nodos)
+- [Consulta](#Consulta)
+- [Devenir con ganas!](#devenir-con-ganas!)
+- [Y en un auto feo](#y-en-un-auto-feo)
+- [hijo](#hijo)
+- [Ya estábamos perdiendo la esperanza](#Ya-estábamos-perdiendo-la-esperanza)
+- [A lxs poetxs](a-lxs-poetxs)
+- [Nunca lo haras como otros, pero nadie lo hara como tú](Nunca-lo-haras-como-otros,-pero-nadie-lo-hara-como-tú)
+- [Nodos](#Nodos)
+- [Gracias a dios](Gracias-a-dios)
 
+<br>
 
-## consulta
+## Consulta
 
 doctor, doctor
 
@@ -58,7 +67,7 @@ y solo me queda
 disfrutar
 
 
-## devenir con ganas!
+## Devenir con ganas!
 
 que pueda volverte loco
 
@@ -85,7 +94,7 @@ en los lugares menos esperados
 ¡devenir con ganas!
 
 
-## y en un auto feo
+## Y en un auto feo
 
 el camino viejo es el mejor
 
@@ -123,7 +132,7 @@ al mar?
 o solo te extraviaste en otra ciudad
 
 
-## ya estábamos perdiendo la esperanza
+## Ya estábamos perdiendo la esperanza
 
 que bueno que aún hay gente
 
@@ -146,7 +155,7 @@ ya llega la primavera
 para todas estas plantas
 
 
-## a los poetxs
+## A lxs poetxs
 
 ay mis hijos
 
@@ -201,7 +210,7 @@ de un cuerpo
 emparejándose con su ambiente
 
 
-## nodos
+## Nodos
 
 ahora que conozco la araña
 
@@ -210,7 +219,7 @@ la tela no me asusta
 bien pegado en la red
 
 
-## gracias a dios
+## Gracias a dios
 
 gracias
 
