@@ -12,7 +12,7 @@ author: Mar_celo
 - [hijo](#hijo)
 - [Ya estábamos perdiendo la esperanza](#ya-estábamos-perdiendo-la-esperanza)
 - [A lxs poetxs](#a-lxs-poetxs)
-- [Nunca lo haras como otros, pero nadie lo hara como tú](#nunca-lo-haras-como-otros)
+- [Nunca lo haras como otros, pero nadie lo hara como tú](#nunca-lo-harás-como-otros,-pero-nadie-lo-hará-como-tú)
 - [Nodos](#nodos)
 - [Gracias a dios](#gracias-a-dios)
 
@@ -195,7 +195,7 @@ no se como acabará
 pero en su curso confio
 
 
-## Nunca lo haras como otros, pero nadie lo hara como tú
+## Nunca lo harás como otros, pero nadie lo hará como tú
 
 Sí se puede ser
 
