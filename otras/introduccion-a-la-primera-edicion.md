@@ -64,13 +64,18 @@ El tiempo en soledad hace crecer una voz y el contenido que con ella compartirá
 
 Entre salvajes
 <br>
+<br>
 aprendemos a mirarnos como humanxs,
+<br>
 <br>
 como el primate de los orígenes descubriendo la comunicación
 <br>
+<br>
 compartiendo descubrimos las formas que el Mundo olvidó.
 <br>
+<br>
 Esto es:
+<br>
 <br>
 la búsqueda del primer encuentro latinoamericano de la soledad!
  </em>
