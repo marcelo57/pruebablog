@@ -1,7 +1,7 @@
 ---
 layout: post2
 title: En esta vida podríamos ser libres
-author: Mar_celo
+author: mar_celo
 ---
 
 ## índice
@@ -193,7 +193,7 @@ y siempre me lleva lejos
 
 no se como acabará
 
-pero en su curso confio
+pero en su curso confío
 
 
 ## Nunca lo harás como otros, pero nadie lo hará como tú

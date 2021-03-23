@@ -1,6 +1,6 @@
 ---
 layout: post2
-title:  "Collage Emilia"
+title:  "Collage"
 author: Emilia
 ---
 
