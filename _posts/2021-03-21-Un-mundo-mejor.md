@@ -4,7 +4,9 @@ title: Un mundo mejor
 author: Yayi Meghni
 ---
 <div>
- <p style="text-align:right;"> [@almalybre](https://www.instagram.com/almalybre) </p>
+ <p style="text-align:right;">
+   <a href="https://www.instagram.com/almalybre">@almalybre</a>
+  </p>
 </div>
 
 <br>

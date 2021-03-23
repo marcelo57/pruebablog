@@ -12,7 +12,7 @@ date: 2021-03-21
 
   - [Y esto que era solo la posibilidad de un gran libro colectivo](#y-esto-que-era-solo-la-posibilidad-de-un-gran-libro-colectivo)
   - [La soledad compartida](#la-soledad-compartida)
-    - [La pedagogía del encuentro](#la-pedagogía-del-encuentro-galáctico)
+  - [La pedagogía del encuentro](#la-pedagogía-del-encuentro-galáctico)
 
 
 - [10 síntesis para reflexionar el presente](#10-síntesis-para-reflexionar-el-presente)

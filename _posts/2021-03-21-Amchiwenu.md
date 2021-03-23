@@ -4,6 +4,10 @@ title:  "Amchiwenu"
 author: Sofía Txiwe
 ---
 
+
+<img src="/pruebablog/archivos/foto_sofi.jpg" />
+
+
 Aguas resbaladizas, que lindo vas
 
 Soy testigo de tu libertad en el cielo,
@@ -15,5 +19,3 @@ A veces no entendemos y nos ahogamos en el poder
 Pero ha llegado ese momento, la conciencia nos esta iluminando
 
 cada vez
-
-<img src="/pruebablog/archivos/foto_sofi.jpg" />
