@@ -59,7 +59,8 @@ Aunque es duro, esta separación nos permite situarnos lejos de los circuitos de
 
 El tiempo en soledad hace crecer una voz y el contenido que con ella compartirá, por medio de la práctica de un arte (sea la guitarra, el movimiento, la pintura, la escritura, la reflexión, el vivir, el amar... tantas formas reconocidas y por reconocer) se cultivan lxs cuerpxs, que adquieren una sensibilidad (derivada también de la aislación, de la ausencia de ciertos estímulos y de la percepción atenta) que es importantísima, porque es la habilidad (saber/hacer) de dejarse afectar (sentir), lo que permitirá posteriormente, el encuentro de las múltiples soledades.
 
-<em>
+<div>
+ <em>
 
 Entre salvajes
 
@@ -72,7 +73,8 @@ compartiendo descubrimos las formas que el Mundo olvidó.
 Esto es:
 
 la búsqueda del primer encuentro latinoamericano de la soledad!
-</em>
+ </em>
+</div> 
 
 ### La pedagogía del encuentro (galáctico)
 
