@@ -4,9 +4,11 @@ title:  "Amchiwenu"
 author: Sofía Txiwe
 ---
 
+<br>
 
 <img src="/pruebablog/archivos/foto_sofi.jpg" />
 
+<br>
 
 Aguas resbaladizas, que lindo vas
 

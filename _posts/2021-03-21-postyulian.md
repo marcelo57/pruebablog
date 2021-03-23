@@ -4,6 +4,7 @@ title: post yulian
 author: Julián
 ---
 
+<br>
 
 Golpes de liberación humana,
 
@@ -31,7 +32,7 @@ y la pesadilla del suelo cansado
 
 ---
 
-Mi mente se transformó en el patio, en el asiduo lugar de mi relajo y mi concentración, en los mts2 que me entrega el poder de la vida, filtrado y colado por el dogma de propiedad; es el destino atrofiado por las fuerzas humanas, o más bien inhumanas.
+Mi mente se transformó en el patio, en el asiduo lugar de mi relajo y mi concentración, en los `mts2` que me entrega el poder de la vida, filtrado y colado por el dogma de propiedad; es el destino atrofiado por las fuerzas humanas, o más bien inhumanas.
 
 Aún así, conciente agradezco; mi pensamiento en cada pétalo, tallo y raíz, en cada grano del espacio y sus guijarros.
 
@@ -43,7 +44,7 @@ Bendit@ el lector de historias y paseos de otr@s. Quizás un buen libro equivale
 
 No pude decirle con certeza que estaba bien. Habíamos tenido un pasado de pasión, pero sin tocarnos un pelo. La sentía como una hermana mística, alguien a quien quise mucho en alguna época évica-adánica, vernácula, como diría mi antiguo, ido ya. Pero ya nada se trataba de ella; si no tuve la firmeza para decir que estaba bien, era más bien por mí. Me encontraba en aquella época de mi vida en que estaba seguro que me faltaba solucionar sólo un par de cosas para abrazar la vida en flor.
 
-el encuentro con ella, con el moscardón colorao y con mi profesora de cuando alguna vez estuve en la universidad, fueron gracias al canelo.
+El encuentro con ella, con el moscardón colorao y con mi profesora de cuando alguna vez estuve en la universidad, fueron gracias al canelo.
 
 Nada fue azaroso.
 
@@ -53,13 +54,9 @@ Que el cielo sea azul, ya me parece suficientemente impresionante, y si lo miras
 
 Cuando noto la curvatura del cielo,
 
-se corre el velo que impedía saberme bajo
+se corre el velo que impedía saberme bajo este gran domo;
 
-este gran domo;
-
-lo mismo que sentía/sabía aquellos grandes
-
-días, mirando de cabeza a otr@s niñ@s y sorpresas;
+lo mismo que sentía/sabía aquellos grandes días, mirando de cabeza a otr@s niñ@s y sorpresas;
 
 el zorzal con su presa
 
