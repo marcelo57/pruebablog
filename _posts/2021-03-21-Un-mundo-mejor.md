@@ -1,8 +1,13 @@
 ---
 layout: post2
 title: Un mundo mejor  
-author: Yayi Meghni [@almalybre](www.instagram.com)
+author: Yayi Meghni
 ---
+<div>
+ <p style="text-align:right;"> [@almalybre](https://www.instagram.com/almalybre) </p>
+</div>
+
+<br>
 
 
 ¿Porqué el Sol duerme de día?...
@@ -23,4 +28,8 @@ mejores, o simplemente...
 
 Un mundo mejor.
 
-8-10-2018
+<div>
+ <p style="text-align:right;"> 8-10-2018 </p>
+</div>
+
+<br>

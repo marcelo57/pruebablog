@@ -2,14 +2,22 @@
 Layout: post
 title: Introducción a la primera edicíon anotada
 Author: mar_celo y Nico Muñoz Saldaña
+date: 2021-03-21
 ---
 
-Índice
+<br>
+
+## Índice
 - [Tecnologia primitiva para alcanzar el futuro](#tecnologia-primitiva-para-alcanzar-el-futuro)
- - [Y esto que era solo la posibilidad de un gran libro colectivo](#y-esto-que-era-solo-la-posibilidad-de-un-gran-libro-colectivo)
- - [La soledad compartida](#la-soledad-compartida)
- - [La pedagogía del encuentro](#la-pedagogía-del-encuentro-galáctico)
+
+  - [Y esto que era solo la posibilidad de un gran libro colectivo](#y-esto-que-era-solo-la-posibilidad-de-un-gran-libro-colectivo)
+  - [La soledad compartida](#la-soledad-compartida)
+    - [La pedagogía del encuentro](#la-pedagogía-del-encuentro-galáctico)
+
+
 - [10 síntesis para reflexionar el presente](#10-síntesis-para-reflexionar-el-presente)
+
+<br>
 
 ## Tecnologia primitiva para alcanzar el futuro
 
@@ -17,6 +25,7 @@ Author: mar_celo y Nico Muñoz Saldaña
  <p style="text-align:right;"> <em> mar_celo </em> </p>
 </div>
 
+<br>
 
 ### Y esto que era solo la posibilidad de un gran libro colectivo
 
@@ -72,12 +81,15 @@ para alcanzar una vez más,
 en lo que quede del tiempo de lo humano,
 la gran revolución del arte!  
 
+<br>
 
 ## 10 síntesis para reflexionar el presente
 
 <div>
  <p style="text-align:right;"> <em> Nico Muñoz Saldaña </em> </p>
 </div>
+
+<br>
 
 Las condiciones actuales han forzado al repliegue, uno que con vaivenes, ya venía siendo desde la irrupción de los mecanismos de individuación, posterior intensificación y su programa pulverizador de lo social. Sin embargo, Ello no ha logrado ni logrará cerrar la grieta hacia el esplendor.
 

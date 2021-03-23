@@ -1,6 +1,6 @@
 ---
 layout: post2
-title:  "Collage"
+title:  "Amchiwenu"
 author: Sofía Txiwe
 ---
 
@@ -16,4 +16,4 @@ Pero ha llegado ese momento, la conciencia nos esta iluminando
 
 cada vez
 
-<img src="/pruebablog/archivos/collage_emilia3.jpg" />
+<img src="/pruebablog/archivos/foto_sofi.jpg" />
