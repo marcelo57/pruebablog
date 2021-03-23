@@ -1,6 +1,6 @@
 ---
 Layout: post
-title: Introducción a la primera edicíon anotada
+title: Introducción a la primera edición anotada
 Author: mar_celo y Nico Muñoz Saldaña
 date: 2021-03-21
 ---
@@ -35,7 +35,7 @@ Se logró, vimos destellos relevantes, pero olvidamos lo genial que era y pareci
 
 Estas máquinas desarrollaron, paso a paso, una interfaz sobre su código, crecieron bocas que hoy se encargan de traducir la máquina al humano y el humano a la máquina. Las computadoras por medio de sus interfaces (sus disfraces de humanidad) se presentan en nuestros términos, nos dicen y preguntan cosas en nuestros idiomas, nos estimulan, tocan nuestros nervios y nos dejan pidiendo más.
 
-En este viaje las computadoras han aprendido sobre el humano, como codificarlo para interactuar en sus dominios ¿pero qué hemos aprendido lxs humanxs? Mientras más profundamente nos relacionamos (humanx-máquina), más extraños nos volvemos, más invisible se vuelve la organización de esta tecnología, la simpleza de una máquina que solo recibe instrucciones, desapareció en un mar de complejidad forzada. Hoy la tecnología nos toca, pero nosotros solo rozamos su pantalla.
+En este viaje las computadoras han aprendido sobre el humano, como codificarlo para interactuar en sus dominios, pero ¿qué hemos aprendido lxs humanxs? Mientras más profundamente nos relacionamos (humanx-máquina), más extraños nos volvemos, más invisible se vuelve la organización de esta tecnología, la simpleza de una máquina que solo recibe instrucciones, desapareció en un mar de complejidad forzada. Hoy la tecnología nos toca, pero nosotros solo rozamos su pantalla.
 
 Pero casi como un hallazgo arqueológico, en muchos rincones, bajo la superficie, se conserva y crece el espíritu primitivo del desarrollo tecnológico (entender la materia por medio de su transformación, colaborar y hacernos sonreír), en la codificación creativa, en el software libre, en la piratería, en la artesanía de circuitos, en la posibilidad de una página web que sirva de medio para encontrarnos.   
 
