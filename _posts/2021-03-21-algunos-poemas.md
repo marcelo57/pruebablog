@@ -16,7 +16,7 @@ es la humilde mujer en el piano y está
 
 en el posible quehacer diario
 
-sicera y compasiva invitación
+sincera y compasiva invitación
 
 realiza ser que conoce
 
