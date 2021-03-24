@@ -5,9 +5,9 @@ entries:
       - title: introducción a la primera edición
         entries:
           - title: Para la primavera que se acerca
-            url: /pruebablog/otras/para-la-primavera.md
+            url: /pruebablog/otras/para-la-primavera
           - title: 10 síntesis para meditar el presente
-            url: /pruebablog/otras/10-sintesis.md
+            url: /pruebablog/otras/10-sintesis
       - title: Contáctate
         url: www.wikipedia.com
 
