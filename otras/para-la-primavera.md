@@ -10,6 +10,8 @@ date: 2021-03-23 03:43:06
 
 ## Índice
 
+<br>
+
   - [Y esto que era solo la posibilidad de un gran libro colectivo](#y-esto-que-era-solo-la-posibilidad-de-un-gran-libro-colectivo)
   - [La soledad compartida](#la-soledad-compartida)
   - [La pedagogía del encuentro](#la-pedagogía-del-encuentro-galáctico)
