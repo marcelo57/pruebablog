@@ -86,7 +86,7 @@ iban perdidos
 
 solo nos quedó
 
-buscarnos la vida
+buscarnosla
 
 en los lugares menos esperados
 
@@ -196,7 +196,7 @@ no se como acabará
 pero en su curso confío
 
 
-## Nunca lo harás como otros, pero nadie lo hará como tú
+## Especialista en todos los estilos
 
 Sí se puede ser
 
@@ -209,6 +209,10 @@ concentrándote en la relajación
 de un cuerpo
 
 emparejándose con su ambiente
+
+Nunca lo harás como otros,
+
+pero nadie lo hará como tú
 
 
 ## Nodos
