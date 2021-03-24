@@ -11,7 +11,7 @@ author: mar_celo
 - [hijo](#hijo)
 - [Ya estábamos perdiendo la esperanza](#ya-estábamos-perdiendo-la-esperanza)
 - [A lxs poetxs](#a-lxs-poetxs)
-- [Nunca lo harás como otros, pero nadie lo hará como tú](#nunca-lo-harás-como-otros-pero-nadie-lo-hará-como-tú)
+- [Especialista en todos los estilos](#especialista-en-todos-los-estilos)
 - [Nodos](#nodos)
 - [Gracias a dios](#gracias-a-dios)
 
