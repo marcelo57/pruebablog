@@ -75,6 +75,8 @@ la búsqueda del primer encuentro latinoamericano de la soledad!
  </em>
 </div>
 
+<br>
+
 ## La pedagogía del encuentro (galáctico)
 
 <br>
