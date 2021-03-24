@@ -1,9 +1,9 @@
 ---
-Layout: post2
+layout: post2
 title: Para la primavera que se acerca (tan cerca, tan cerca)
-Author: mar_celo
-Date: 2021-03-21
+author: mar_celo
 ---
+
 
 <br>
 
@@ -27,7 +27,7 @@ Estos aparatos desarrollaron, paso a paso, una interfaz sobre su código, **crec
 
 En este viaje las computadoras han aprendido sobre el humano, como codificarlo para interactuar en sus dominios, pero **¿qué hemos aprendido lxs humanxs?** Mientras más profundamente nos relacionamos (humanx-máquina), más extraños nos volvemos, más invisible se vuelve la organización de esta tecnología, **la simpleza de una máquina que solo recibe instrucciones**, desapareció en un mar de complejidad forzada. Hoy la tecnología nos toca, pero nosotros solo rozamos su pantalla.
 
-A pesar de todo, casi como un hallazgo arqueológico, en muchos rincones, bajo la superficie, se conserva y crece el espíritu primitivo del desarrollo tecnológico (expandir las fronteras de la coordinación y hacernos sonreír), en la codificación creativa, en el software libre, en la piratería, en la artesanía de circuitos, **en la posibilidad de una página web que sirva de medio para encontrarnos**.   
+A pesar de todo y casi como un hallazgo arqueológico, en muchos rincones, bajo la superficie, se conserva y crece el espíritu primitivo del desarrollo tecnológico (expandir las fronteras de la coordinación y hacernos sonreír), en la codificación creativa, en el software libre, en la piratería, en la artesanía de circuitos, **en la posibilidad de una página web que sirva de medio para encontrarnos**.   
 
 ## La soledad compartida
 
@@ -45,18 +45,16 @@ A pesar de todo, casi como un hallazgo arqueológico, en muchos rincones, bajo l
 
 <br>
 
-La búsqueda, práctica y reflexión de artes no hegemónicas, en nuestros tiempos, nos pone de frente, en un momento u otro, con la soledad. **Es el camino de tantxs que en un intento desafiante de conservar los haceres y saberes que les sirven de aliento en sus vidas**, rompen con las convenciones y los modos de ser dominantes (a veces lentamente, a veces de golpe), y se ven acechados por la incomprensión y la frialdad de un mundo construido para aislar la diferencia.
+La búsqueda, práctica y reflexión de artes no hegemónicas, en nuestros tiempos, nos pone de frente, en un momento u otro, con la soledad. **Es el camino de tantxs que en un intento desafiante de conservar los haceres y saberes que les sirven de aliento en sus vidas, rompen con las convenciones y los modos de ser dominantes** (a veces lentamente, a veces de golpe), y se ven acechados por la incomprensión y la frialdad de un mundo construido para aislar la diferencia.
 
 Nos encontramos con la soledad, perdidos, amigos cercanos de la locura y la enfermedad, desde la extravagancia o el silencio hermitaño (estar solxs no es, necesariamente, estar quietxs). En soledad se cultiva nuestro jardín interior, en soledad reaprendemos la humanidad perdida.
 
-Aunque es duro, esta separación nos permite situarnos lejos de los circuitos de valorización hegemónicos, nos obliga a ver el mundo desde nuestra propia vida, desde una historia y memoria particulares, nos hace poner los pies sobre la tierra, **en un acto que es a la vez redentor hacia nosotros mismos**, ver nuestro valor provoca la ampliación del territorio, donde la razón hegemónica no veía caminos, vemos paisajes enormes por explorar.
+Aunque es duro, esta separación nos permite situarnos lejos de los circuitos de valorización hegemónicos, nos obliga a ver el mundo desde nuestra propia vida, desde una historia y memoria particulares, nos hace poner los pies sobre la tierra, en un acto que es a la vez redentor hacia nosotros mismos, **ver nuestro valor provoca la ampliación del territorio**, donde la razón hegemónica no veía caminos, vemos paisajes enormes por explorar.
 
 El tiempo en soledad hace crecer una voz y el contenido que con ella compartirá, por medio de la práctica de un arte (sea la guitarra, el movimiento, la pintura, la escritura, la reflexión, el vivir, el amar... tantas formas reconocidas y por reconocer) se cultivan lxs cuerpxs, que adquieren una sensibilidad que es importantísima, **porque es la habilidad (saber/hacer) de dejarse afectar (sentir)**, lo que permitirá posteriormente, el encuentro de las múltiples soledades.
 
-<br>
 <div>
  <em>
-
 Entre salvajes
 <br>
 <br>
@@ -86,11 +84,11 @@ Esta divergencia es fundamental, porque no nos entendemos por ser iguales, o por
 
 En un universo poblado de múltiples saberes, hay mucho que aprender, escuchar y crear, pero para entendernos, primero tenemos que enseñarnos.
 
-Esta página pretende ser una instancia para mostrar lo que haz crecido y cuidado dentro tuyo y la oportunidad de verlo también en otros, para entablar un diálogo transformador: ***la pedagogía del encuentro***.  
+Esta página pretende ser una instancia para mostrar lo que haz crecido y cuidado dentro tuyo y la oportunidad de verlo también en otros, para entablar un diálogo transformador: *la pedagogía del encuentro*.  
 
 para que lxs humanxs del futuro no nos maldigan, este es el *gran trabajo*, un trabajo por la construcción y mantención de los modos de vida, los saberes y haceres que nos permiten ser humanxs, **que se practican precisamente, siendo humanxs**: enseñando, conversando y creando.
 
-El pensamiento aquí expuesto toma la forma de un primitivismo, pero a la vez también de un futurismo, porque **hablamos del encuentro de muchos mundos**, de planetas con formas de vida tan distintas, que en misiones de exploración espacial se descubren y revolucionan sus ciencias con la tecnología alienígena que intercambian en concilios galácticos.
+El pensamiento aquí expuesto toma la forma de un primitivismo, pero a la vez también de un futurismo, **porque hablamos del encuentro de muchos mundos**, de planetas con formas de vida tan distintas, que en misiones de exploración espacial se descubren y revolucionan sus ciencias con la tecnología alienígena que intercambian en concilios galácticos.
 
 Esta página es la misión de exploración espacial, tú eres el planeta, la posibilidad de este encuentro es el concilio galáctico, la tecnología alienígena son los saberes y haceres que haz cultivado en soledad, nosotros somos los que esperamos escucharte,
 
