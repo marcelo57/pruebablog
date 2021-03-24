@@ -19,7 +19,7 @@ Date: 2021-03-21
 
 <br>
 
-En sus inicios el internet prometía libertad, la capacidad de conectar nuestras máquinas para que intercambiaran mensajes, una plataforma en la que cualquiera podia echar a correr su creatividad. Programar los estímulos que se materializan en una pantalla y unos parlantes, plantar nuestro mensaje como el nodo de una gran red, un universo de puertas que dan a muchos jardines, **como una ventana por la cual asomarse a ver los paisajes de múltiples planetas**.
+En sus inicios el internet prometía libertad, la capacidad de conectar nuestras máquinas para que intercambiaran mensajes, una plataforma en la que cualquiera podia echar a correr su creatividad. Programar los estímulos que se materializan en una pantalla y unos parlantes, **plantar nuestro mensaje como el nodo de una gran red**, un universo de puertas que dan a muchos jardines, como una ventana por la cual asomarse a ver los paisajes de múltiples planetas.
 
 Se logró, vimos destellos relevantes, pero olvidamos lo genial que era y pareciera que nadie más pudo volver a verlo de nuevo.
 
@@ -54,7 +54,6 @@ Aunque es duro, esta separación nos permite situarnos lejos de los circuitos de
 El tiempo en soledad hace crecer una voz y el contenido que con ella compartirá, por medio de la práctica de un arte (sea la guitarra, el movimiento, la pintura, la escritura, la reflexión, el vivir, el amar... tantas formas reconocidas y por reconocer) se cultivan lxs cuerpxs, que adquieren una sensibilidad que es importantísima, **porque es la habilidad (saber/hacer) de dejarse afectar (sentir)**, lo que permitirá posteriormente, el encuentro de las múltiples soledades.
 
 <br>
-
 <div>
  <em>
 

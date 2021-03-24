@@ -30,8 +30,10 @@ mejores, o simplemente...
 
 Un mundo mejor.
 
+<br>
+
 <div>
- <p style="text-align:right;"> 8-10-2018 </p>
+ <p style="text-align:right;"> <em> 8-10-2018 </em> </p>
 </div>
 
 <br>
