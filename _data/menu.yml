@@ -2,7 +2,8 @@
 entries:
   - title: Vacíos inofensivos
     entries:
-      - title: introducción a la primera edición anotada
+      - title: introducción a la primera edición
+        entries:
           -title: Para la primavera que se acerca
            url: /otras/para-la-primavera.md
           -title: 10 síntesis para meditar el presente

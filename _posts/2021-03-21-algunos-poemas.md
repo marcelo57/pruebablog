@@ -26,9 +26,7 @@ su significado es lo que podría llegar a ser la vida.
 
 ---
 
-Revelando en el país, el guiso de las tortas
-
-y la pesadilla del suelo cansado
+Revelando en el país, el guiso de las tortas y la pesadilla del suelo cansado
 
 ---
 
@@ -40,13 +38,6 @@ Bendit@ es quién pasea y se regala entonces mas espacio para sus ideas.
 
 Bendit@ el lector de historias y paseos de otr@s. Quizás un buen libro equivale a una buena aventura vivida.
 
----
-
-No pude decirle con certeza que estaba bien. Habíamos tenido un pasado de pasión, pero sin tocarnos un pelo. La sentía como una hermana mística, alguien a quien quise mucho en alguna época évica-adánica, vernácula, como diría mi antiguo, ido ya. Pero ya nada se trataba de ella; si no tuve la firmeza para decir que estaba bien, era más bien por mí. Me encontraba en aquella época de mi vida en que estaba seguro que me faltaba solucionar sólo un par de cosas para abrazar la vida en flor.
-
-El encuentro con ella, con el moscardón colorao y con mi profesora de cuando alguna vez estuve en la universidad, fueron gracias al canelo.
-
-Nada fue azaroso.
 
 ---
 
@@ -85,6 +76,14 @@ y guitarrón; escoge pronto
 e improvisa, sé como la micorriza,
 
 únete con tu amad@ y fructifica.
+
+---
+
+No pude decirle con certeza que estaba bien. Habíamos tenido un pasado de pasión, pero sin tocarnos un pelo. La sentía como una hermana mística, alguien a quien quise mucho en alguna época évica-adánica, vernácula, como diría mi antiguo, ido ya. Pero ya nada se trataba de ella; si no tuve la firmeza para decir que estaba bien, era más bien por mí. Me encontraba en aquella época de mi vida en que estaba seguro que me faltaba solucionar sólo un par de cosas para abrazar la vida en flor.
+
+El encuentro con ella, con el moscardón colorao y con mi profesora de cuando alguna vez estuve en la universidad, fueron gracias al canelo.
+
+Nada fue azaroso.
 
 ----
 
