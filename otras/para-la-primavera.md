@@ -1,7 +1,7 @@
 ---
-Layout: post
-title: Introducción a la primera edición anotada
-Author: mar_celo y Nico Muñoz Saldaña
+Layout: post2
+title: Para la primavera que se acerca (tan cerca, tan cerca)
+Author: mar_celo
 date: 2021-03-21
 ---
 
@@ -14,20 +14,11 @@ date: 2021-03-21
   - [La soledad compartida](#la-soledad-compartida)
   - [La pedagogía del encuentro](#la-pedagogía-del-encuentro-galáctico)
 
-
-- [10 síntesis para reflexionar el presente](#10-síntesis-para-reflexionar-el-presente)
-
 <br>
 
-## Para la primavera que se acerca (tan cerca, tan cerca)
-
-<div>
- <p style="text-align:right;"> <em> mar_celo </em> </p>
-</div>
+## Y esto que era solo la posibilidad de un gran libro colectivo
 
 <br>
-
-### Y esto que era solo la posibilidad de un gran libro colectivo
 
 En sus inicios el internet prometía libertad, la capacidad de conectar nuestras máquinas para que intercambiaran mensajes, una plataforma en la que cualquiera podia echar a correr su creatividad. Programar los estímulos que se materializan en una pantalla y unos parlantes, plantar nuestro mensaje como el nodo de una gran red, un universo de puertas que dan a muchos jardines, como una ventana por la cual asomarse a ver los paisajes de múltiples planetas.
 
@@ -39,7 +30,9 @@ En este viaje las computadoras han aprendido sobre el humano, como codificarlo p
 
 A pesar de todo, casi como un hallazgo arqueológico, en muchos rincones, bajo la superficie, se conserva y crece el espíritu primitivo del desarrollo tecnológico (expandir las fronteras de la coordinación y hacernos sonreír), en la codificación creativa, en el software libre, en la piratería, en la artesanía de circuitos, **en la posibilidad de una página web que sirva de medio para encontrarnos**.   
 
-### La soledad compartida
+## La soledad compartida
+
+<br>
 
 *Y así vamos por la vida*
 
@@ -81,7 +74,9 @@ la búsqueda del primer encuentro latinoamericano de la soledad!
  </em>
 </div>
 
-### La pedagogía del encuentro (galáctico)
+## La pedagogía del encuentro (galáctico)
+
+<br>
 
 Esto no es un movimiento artístico, o una vanguardia que haga referencia a una serie de variables estéticas, técnicas o teóricas, **es un movimiento de movimientos**, la búsqueda de una gran conversación entre lxs que se separaron, lxs que hoy saben que para seguir creciendo necesitan también de otrxs, quienes en circunstancias disímiles adoptaron una organización similar (la soledad) que hoy se expresa en infinitas formas divergentes.
 
@@ -104,31 +99,3 @@ Esta página es la misión de exploración espacial, tú eres el planeta, la pos
 *la gran revolución del arte!*
 
 <br>
-
-## 10 síntesis para reflexionar el presente
-
-<div>
- <p style="text-align:right;"> <em> Nico Muñoz Saldaña </em> </p>
-</div>
-
-<br>
-
-Las condiciones actuales han forzado al repliegue, uno que con vaivenes, ya venía siendo desde la irrupción de los mecanismos de individuación, posterior intensificación y su programa pulverizador de lo social. Sin embargo, Ello no ha logrado ni logrará cerrar la grieta hacia el esplendor.
-
-La apertura siempre está, siempre existe, y hemos gozado del tiempo y disposición para explorarla, desde el aislamiento y la soledad: el necesario repliegue, una escuela de autorreflexividad sentida (aiesthésica) que nos ha acercado a diferenciar claramente qué no queremos y qué queremos.  
-
-Nuestra ética se mueve por la experiencia de algo mejor, de un abstracto mejor, de un reino que bajaremos a Tierra.  
-
-Nuestra resistencia absoluta a dejar el *habitar* en el pasado y dejarnos consumir por el *absoluto virtual* nos lleva natural y necesariamente a un trabajo ético, a performar nuestro papel en esta obra, en esta historia, en este orden, uno de coordenadas específicas en el cosmos, la biósfera Tierra.
-
-La lectura del tiempo indica que el momento actual es el de crear un espacio de apañe, del encuentro, del acompañamiento; tejer la ofensiva.  Para esto, creamos una *conversación*; un *encuentro* basado en el *enseñar, evidenciar, apuntar*: ¡Mira esto! Y miro aquello, ¡Muestro esto! Y lo miran. Hablo y escucho, aprendo atento, y reinterpreto, creo en la medida que lo re-enseño. *Enseñarnos* y así *Aprehendernos* mediante el acto creativo de la interpretación y la metáfora.  Inspiración, entrega y comunión en confianza:
-
-*Crear y Crear. Fermento de Infinitas reacciones moleculares, florecimientos* posibilitados por hacer un *festín* de lo propio, entregar el corazón y la gema más preciosa para el *Afuera*, nunca para el *Encierro*.  Valorizar el circuito *Afuera*.  *Break on through to the other side/Rompe hacia el otro lado,* dice la canción.
-
-Nuestro proyecto es uno de auto-similaridad.   Hacemos lo que proponemos.  Nuestros contenidos son  nuestras prácticas y pretendemos con ellas generar las condiciones necesarias para que más puedan explorar la *autorreflexividad sentida: este es nuestro Titán de ataque*.
-
-La aiesthesis cósmica se autovaloriza en la Creación profunda y divergente; así vamos habitando un circuito novel, camino de caminos no cooptados por Ello.  
-
-Nuestra apuesta es como la Tierra, mínima en el cosmos.  Pero lo mínimo es nuestra esencia.
-
-Comenzaremos por hacer de la imaginación un territorio vasto, habitable y liberado, desalambraremos  mundos mutuos donde habita la fascinación y el aprendizaje; construiremos las metáforas del futuro para performar la utopía. 
