@@ -26,7 +26,7 @@ su significado es lo que podría llegar a ser la vida.
 
 ---
 
-Revelando en el país, el guiso de las tortas y la pesadilla del suelo cansado
+Revelando en el país, el guiso de las tortas y la pesadilla del suelo cansado.
 
 ---
 
