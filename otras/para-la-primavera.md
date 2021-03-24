@@ -44,8 +44,6 @@ A pesar de todo y casi como un hallazgo arqueológico, en muchos rincones, bajo 
 
 *lugares para llegar*
 
-<br>
-
 La búsqueda, práctica y reflexión de artes no hegemónicas, en nuestros tiempos, nos pone de frente, en un momento u otro, con la soledad. **Es el camino de tantxs que en un intento desafiante de conservar los haceres y saberes que les sirven de aliento en sus vidas, rompen con las convenciones y los modos de ser dominantes** (a veces lentamente, a veces de golpe), y se ven acechados por la incomprensión y la frialdad de un mundo construido para aislar la diferencia.
 
 Nos encontramos con la soledad, perdidos, amigos cercanos de la locura y la enfermedad, desde la extravagancia o el silencio hermitaño (estar solxs no es, necesariamente, estar quietxs). En soledad se cultiva nuestro jardín interior, en soledad reaprendemos la humanidad perdida.
