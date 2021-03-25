@@ -24,4 +24,4 @@ y se desbloquean las emociones tapadas
 
 que nos regalan al fin
 
-la tristeza
+la tristeza.
