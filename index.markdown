@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+  <img src="/pruebablog/archivos/autocad.gif" />
