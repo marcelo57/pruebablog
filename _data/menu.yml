@@ -1,9 +1,6 @@
 
 entries:
-
-    <img src="/pruebablog/archivos/autocad.gif" />
-
-  - title: Vacíos inofensivos
+    - title: Vacíos inofensivos
     entries:
       - title: introducción a la primera edición
         entries:
