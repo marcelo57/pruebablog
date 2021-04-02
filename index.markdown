@@ -37,7 +37,9 @@ tesoros que desenterrar
 <br>
  <div>
   <p style="text-align:right;">
-**Arquitectura del sítio:**
+   <em>
+Arquitectura del sítio:
+   </em>
   </p>
  </div>
 
@@ -51,13 +53,13 @@ ____________________
 / Introducción a la \
 \ primera edición   /
 --------------------
- \
-  \   \_\_    _/_/
-   \      \__/
-          (oo)\_______
-          (__)\       )\/\
-              ||----w |
-              ||     ||
+    \
+     \  (__)
+        (\/)
+ /-------\/
+/ | 666 ||
+* ||----||
+  ~~    ~~
 
 </pre>
 
@@ -73,50 +75,43 @@ ____________________
 
 <pre>
 _______________
-< publicaciones >
+< Publicaciones >
 ---------------
-    \
-     \  (__)
-        (\/)
- /-------\/
-/ | 666 ||
-*  ||----||
-  ~~    ~~
+ \
+  \   \_\_    _/_/
+   \      \__/
+          (oo)\_______
+          (__)\       )\/\
+              ||----w |
+              ||     ||
 
 </pre>
 
 <br>
 
 
-## [Algunos poemas](/pruebablog/2021/03/21/algunos-poemas)
-de J
+## [Algunos poemas](/pruebablog/2021/03/21/algunos-poemas) de J
 
 ---
 
-## [Un mundo mejor](/pruebablog/2021/03/21/Un-mundo-mejor)
-de Yayi Meghni
+## [Un mundo mejor](/pruebablog/2021/03/21/Un-mundo-mejor) de Yayi Meghni
 
 ---
 
-## [Amchiwenu](/pruebablog/2021/03/21/Amchiwenu)
-de Sofía Txiwe
+## [Amchiwenu](/pruebablog/2021/03/21/Amchiwenu) de Sofía Txiwe
 
 ---
 
-## [En esta vida podríamos ser libres](/pruebablog/2021/03/17/en-esta-vida-podríamos-ser-libres.html)
-de mar_celo
+## [En esta vida podríamos ser libres](/pruebablog/2021/03/17/en-esta-vida-podríamos-ser-libres.html) de mar_celo
 
 ---
 
-## [El largo camino](/pruebablog/2021/03/13/el-largo-camino)
-de Nico Muñoz Saldaña
+## [El largo camino](/pruebablog/2021/03/13/el-largo-camino) de Nico Muñoz Saldaña
 
 ---
 
-## [La palabra deshojada](/pruebablog/2021/03/01/la-palabra-deshojada)
-de Marcelo Sanhueza Vallejos
+## [La palabra deshojada](/pruebablog/2021/03/01/la-palabra-deshojada) de Marcelo Sanhueza Vallejos
 
 ---
 
-## [Collage](/pruebablog/2021/03/01/collage-emilia)
-de Emilia
+## [Collage](/pruebablog/2021/03/01/collage-emilia) de Emilia
