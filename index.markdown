@@ -89,7 +89,7 @@ ____________________
 <br>
 
 
-## [Algunos poemas](/pruebablog/2021/03/21/algunos-poemas) de Julían
+## [Algunos poemas](/pruebablog/2021/03/21/algunos-poemas) de Julián
 
 ---
 
