@@ -5,20 +5,24 @@
 layout: home
 ---
 
-
-<pre>
-
-______________________________________
-/ la exposición de las expresiones de \
-\ muchos mundos en una página web     /
---------------------------------------
+<div>
+ <p style="text-align:right;">
+  <pre>
+______________________________
+/ la exposición de las        \
+| expresiones de muchos mundos |
+\ en una página web           /
+------------------------------
        \   ^__^
         \  (oo)\_______
            (__)\       )\/\
                ||----w |
                ||     ||
 
- </pre>
+
+  </pre>
+ </p>
+</div>
 
 La deriva de tu vida te ha conducido a este lugar
 
@@ -66,7 +70,6 @@ Arquitectura del sítio:
 
 <br>
 
-## Perturbaciones
 
 
 ### [Algunos poemas](/pruebablog/2021/03/21/algunos-poemas)
