@@ -64,22 +64,22 @@ Arquitectura del sítio:
 ---
 
 
-## [Algunos poemas](/pruebablog/_posts/2021-03-21-algunos-poemas)
+## [Algunos poemas](/pruebablog/2021/03/21/algunos-poemas)
 de J
 
 ---
 
-## [Un mundo mejor](/pruebablog/_posts/2021-03-21-Un-mundo_mejor)
+## [Un mundo mejor](/pruebablog/_posts/2021/03/21/Un-mundo_mejor)
 de Yayi Meghni
 
 ---
 
-## [Amchiwenu](/pruebablog/_posts/2021-03-21-Amchiwenu)
+## [Amchiwenu](/pruebablog/_posts/2021/03/21/Amchiwenu.md)
 de Sofía Txiwe
 
 ---
 
-## [en esta vida podríamos ser libres](/pruebablog/_posts/2021-03-17-en-esta-vida-podríamos-ser-libres)
+## [en esta vida podríamos ser libres](/pruebablog/2021/03/17/en-esta-vida-podríamos-ser-libres.html)
 de mar_celo
 
 ---
