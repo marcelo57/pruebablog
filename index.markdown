@@ -22,7 +22,7 @@ layout: home
 
 La deriva de tu vida te ha conducido a este lugar
 
-si decides quedarte a ver
+si decides quedarte
 
 un poco más abajo encontraras los frutos de otras derivas
 
