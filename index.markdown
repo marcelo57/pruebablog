@@ -63,7 +63,6 @@ ____________________
 
 </pre>
 
-<br>
 ##  - [Para la primavera que se acerca](/pruebablog/otras/para-la-primavera) de mar_celo
 
   <br>
