@@ -21,15 +21,22 @@ ______________________________________
  </pre>
 
 La deriva de tu vida te ha conducido a este lugar
+
 si decides quedarte a ver
+
 un poco más abajo encontraras los frutos de otras derivas
+
 algo para ver
+
 algo para leer
+
 algo para escuchar
+
 tesoros que desenterrar
 
+<br>
 
-arquitectura del sítio:
+Arquitectura del sítio:
   <img src="/pruebablog/archivos/autocad.gif" />
 
 <pre>
@@ -46,38 +53,46 @@ arquitectura del sítio:
                  ~~    ~~
 </pre>
 
-## - Introducción a la primera edición:
+## Introducción a la primera edición:
 <br>
-     - [Para la primavera que se acerca](/pruebablog/otras/para-la-primavera) de mar_celo
-     - [10 síntesis para meditar el presente](/pruebablog/otras/10-sintesis) de Nico Muñoz Saldaña
+  - [Para la primavera que se acerca](/pruebablog/otras/para-la-primavera) de mar_celo
+
+  - [10 síntesis para meditar el presente](/pruebablog/otras/10-sintesis) de Nico Muñoz Saldaña
 
 <br>
 
 ---
 
 
-- [Algunos poemas](/pruebablog/_posts/2021-03-21-algunos-poemas) de J
+## [Algunos poemas](/pruebablog/_posts/2021-03-21-algunos-poemas)
+de J
 
 ---
 
-- [Un mundo mejor](/pruebablog/_posts/2021-03-21-Un-mundo_mejor) de Yayi Meghni
+## [Un mundo mejor](/pruebablog/_posts/2021-03-21-Un-mundo_mejor)
+de Yayi Meghni
 
 ---
 
-- [Amchiwenu](/pruebablog/_posts/2021-03-21-Amchiwenu) sw Sofía Txiwe
+## [Amchiwenu](/pruebablog/_posts/2021-03-21-Amchiwenu)
+de Sofía Txiwe
 
 ---
 
-- [en esta vida podríamos ser libres](/pruebablog/_posts/2021-03-17-en-esta-vida-podríamos-ser-libres) de mar_celo
+## [en esta vida podríamos ser libres](/pruebablog/_posts/2021-03-17-en-esta-vida-podríamos-ser-libres)
+de mar_celo
 
 ---
 
-- [El largo camino](/pruebablog/_posts/2021-03-13-el-largo-camino) de Nico Muñoz Saldaña
+## [El largo camino](/pruebablog/_posts/2021-03-13-el-largo-camino)
+de Nico Muñoz Saldaña
 
 ---
 
-- [La palabra deshojada](/pruebablog/_posts/2021-03-01-la-palabra-deshojada) de Marcelo Sanhueza Vallejos
+## [La palabra deshojada](/pruebablog/_posts/2021-03-01-la-palabra-deshojada)
+de Marcelo Sanhueza Vallejos
 
 ---
 
-- [Collage](/pruebablog/_posts/2021-03-01-collage-emilia) de Emilia
+## [Collage](/pruebablog/_posts/2021-03-01-collage-emilia)
+de Emilia
