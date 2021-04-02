@@ -6,22 +6,24 @@ layout: home
 ---
 
 <div>
+
  <p style="text-align:right;">
+
   <pre>
-______________________________
-/ la exposición de las        \
-| expresiones de muchos mundos |
-\ en una página web           /
-------------------------------
-       \   ^__^
-        \  (oo)\_______
-           (__)\       )\/\
-               ||----w |
-               ||     ||
-
-
+  ___________________________
+ / la exposición de las     \
+ | expresiones de muchos     |
+ \ mundos en una página web /
+  ---------------------------
+         \   ^__^
+          \  (oo)\_______
+             (__)\       )\/\
+                 ||----w |
+                 ||     ||
   </pre>
+
  </p>
+
 </div>
 
 La deriva de tu vida te ha conducido a este lugar
@@ -72,35 +74,35 @@ Arquitectura del sítio:
 
 
 
-### [Algunos poemas](/pruebablog/2021/03/21/algunos-poemas)
+## [Algunos poemas](/pruebablog/2021/03/21/algunos-poemas)
 de J
 
 ---
 
-### [Un mundo mejor](/pruebablog/2021/03/21/Un-mundo_mejor)
+## [Un mundo mejor](/pruebablog/2021/03/21/Un-mundo_mejor)
 de Yayi Meghni
 
 ---
 
-### [Amchiwenu](/pruebablog/2021/03/21/Amchiwenu)
+## [Amchiwenu](/pruebablog/2021/03/21/Amchiwenu)
 de Sofía Txiwe
 
 ---
 
-### [en esta vida podríamos ser libres](/pruebablog/2021/03/17/en-esta-vida-podríamos-ser-libres.html)
+## [en esta vida podríamos ser libres](/pruebablog/2021/03/17/en-esta-vida-podríamos-ser-libres.html)
 de mar_celo
 
 ---
 
-### [El largo camino](/pruebablog/2021/03/13/el-largo-camino)
+## [El largo camino](/pruebablog/2021/03/13/el-largo-camino)
 de Nico Muñoz Saldaña
 
 ---
 
-### [La palabra deshojada](/pruebablog/2021/03/01/la-palabra-deshojada)
+## [La palabra deshojada](/pruebablog/2021/03/01/la-palabra-deshojada)
 de Marcelo Sanhueza Vallejos
 
 ---
 
-### [Collage](/pruebablog/2021/03/01/collage-emilia)
+## [Collage](/pruebablog/2021/03/01/collage-emilia)
 de Emilia
