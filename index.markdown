@@ -35,17 +35,6 @@ algo para `escuchar`
 tesoros que desenterrar
 
 <br>
- <div>
-  <p style="text-align:right;">
-   <em>
-Arquitectura del sítio:
-   </em>
-  </p>
- </div>
-
-  <img src="/pruebablog/archivos/autocad.gif" />
-
-<br>
 <br>
 
 <pre>
@@ -74,9 +63,9 @@ ____________________
 <br>
 
 <pre>
-_______________
+ _______________
 < Publicaciones >
----------------
+ ---------------
  \
   \   \_\_    _/_/
    \      \__/
@@ -115,3 +104,18 @@ _______________
 ---
 
 ## [Collage](/pruebablog/2021/03/01/collage-emilia) de Emilia
+
+
+---
+
+<br>
+
+<div>
+ <p style="text-align:right;">
+  <em>
+Arquitectura del sítio:
+  </em>
+ </p>
+</div>
+
+ <img src="/pruebablog/archivos/autocad.gif" />
