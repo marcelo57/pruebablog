@@ -37,7 +37,7 @@ tesoros que desenterrar
 <br>
  <div>
   <p style="text-align:right;">
-Arquitectura del sítio:
+**Arquitectura del sítio:**
   </p>
  </div>
 
@@ -46,29 +46,43 @@ Arquitectura del sítio:
 <br>
 <br>
 
-# Introducción a la primera edición:
+<pre>
+____________________
+/ Introducción a la \
+\ primera edición   /
+--------------------
+ \
+  \   \_\_    _/_/
+   \      \__/
+          (oo)\_______
+          (__)\       )\/\
+              ||----w |
+              ||     ||
+
+</pre>
+
 <br>
-  - [Para la primavera que se acerca](/pruebablog/otras/para-la-primavera) de mar_celo
+##  - [Para la primavera que se acerca](/pruebablog/otras/para-la-primavera) de mar_celo
 
   <br>
 
-  - [10 síntesis para meditar el presente](/pruebablog/otras/10-sintesis) de Nico Muñoz Saldaña
+##  - [10 síntesis para meditar el presente](/pruebablog/otras/10-sintesis) de Nico Muñoz Saldaña
 
 <br>
 <br>
 
 <pre>
+_______________
+< publicaciones >
+---------------
+    \
+     \  (__)
+        (\/)
+ /-------\/
+/ | 666 ||
+*  ||----||
+  ~~    ~~
 
-               _______________
-              < publicaciones >
-               ---------------
-                   \
-                    \  (__)
-                       (\/)
-                /-------\/
-               / | 666 ||
-              *  ||----||
-                 ~~    ~~
 </pre>
 
 <br>
@@ -89,7 +103,7 @@ de Sofía Txiwe
 
 ---
 
-## [en esta vida podríamos ser libres](/pruebablog/2021/03/17/en-esta-vida-podríamos-ser-libres.html)
+## [En esta vida podríamos ser libres](/pruebablog/2021/03/17/en-esta-vida-podríamos-ser-libres.html)
 de mar_celo
 
 ---
