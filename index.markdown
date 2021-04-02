@@ -5,16 +5,13 @@
 layout: home
 ---
 
-<div>
-
- <p style="text-align:right;">
-
   <pre>
-  ___________________________
- / la exposición de las     \
- | expresiones de muchos     |
- \ mundos en una página web /
-  ---------------------------
+  ____________________
+ / la exposición de  \
+ | las expresiones de |
+ | muchos mundos en   |
+ \ una página web    /
+  --------------------
          \   ^__^
           \  (oo)\_______
              (__)\       )\/\
@@ -22,9 +19,6 @@ layout: home
                  ||     ||
   </pre>
 
- </p>
-
-</div>
 
 La deriva de tu vida te ha conducido a este lugar
 
@@ -46,7 +40,22 @@ tesoros que desenterrar
 Arquitectura del sítio:
   </p>
  </div>
+
   <img src="/pruebablog/archivos/autocad.gif" />
+
+<br>
+<br>
+
+# Introducción a la primera edición:
+<br>
+  - [Para la primavera que se acerca](/pruebablog/otras/para-la-primavera) de mar_celo
+
+  <br>
+
+  - [10 síntesis para meditar el presente](/pruebablog/otras/10-sintesis) de Nico Muñoz Saldaña
+
+<br>
+<br>
 
 <pre>
 
@@ -62,16 +71,7 @@ Arquitectura del sítio:
                  ~~    ~~
 </pre>
 
-## Introducción a la primera edición:
 <br>
-  - [Para la primavera que se acerca](/pruebablog/otras/para-la-primavera) de mar_celo
-
-  <br>
-
-  - [10 síntesis para meditar el presente](/pruebablog/otras/10-sintesis) de Nico Muñoz Saldaña
-
-<br>
-
 
 
 ## [Algunos poemas](/pruebablog/2021/03/21/algunos-poemas)
@@ -79,7 +79,7 @@ de J
 
 ---
 
-## [Un mundo mejor](/pruebablog/2021/03/21/Un-mundo_mejor)
+## [Un mundo mejor](/pruebablog/2021/03/21/Un-mundo-mejor)
 de Yayi Meghni
 
 ---
