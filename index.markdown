@@ -24,7 +24,7 @@ La deriva de tu vida te ha conducido a este lugar
 
 si decides quedarte
 
-un poco más abajo encontraras los frutos de otras derivas
+un poco más abajo encontrarás los frutos de otras derivas
 
 algo para `ver`
 
