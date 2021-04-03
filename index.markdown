@@ -7,7 +7,7 @@ layout: home
 
   <pre>
   ____________________
- / la exposición de  \
+ / el encuentro de   \
  | las expresiones de |
  | muchos mundos en   |
  \ una página web    /
@@ -24,7 +24,7 @@ La deriva de tu vida te ha conducido a este lugar
 
 si decides quedarte
 
-un poco más abajo encontrarás los frutos de otras derivas
+un poco más abajo hallarás los frutos de otras derivas
 
 algo para `ver`
 
