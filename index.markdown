@@ -62,11 +62,11 @@ ____________________
 
 </pre>
 
-##  - [Para la primavera que se acerca](/pruebablog/otras/para-la-primavera) de mar_celo
+## [Para la primavera que se acerca](/pruebablog/otras/para-la-primavera) de mar_celo
 
   <br>
 
-##  - [10 síntesis para meditar el presente](/pruebablog/otras/10-sintesis) de Nico Muñoz Saldaña
+## [10 síntesis para meditar el presente](/pruebablog/otras/10-sintesis) de Nico Muñoz Saldaña
 
 <br>
 <br>
