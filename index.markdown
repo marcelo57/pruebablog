@@ -38,7 +38,7 @@ tesoros que desenterrar
  <div>
   <p style="text-align:right;">
    <em>
-Arquitectura del sítio:
+Mapa del sítio:
    </em>
   </p>
  </div>
@@ -49,17 +49,15 @@ Arquitectura del sítio:
 <br>
 
 <pre>
-____________________
-/ Introducción a la \
-\ primera edición   /
---------------------
-    \
-     \  (__)
-        (\/)
- /-------\/
-/ |     ||
-* ||----||
-  ~~    ~~
+
+_____________________________________
+< Introducción a la primera edición >
+-------------------------------------
+             \
+              \
+        >(.)__  <(.)__  =(.)__
+~~~~~~~~~(___/~~~(___/~~~(___/~~~~~~~~~
+
 
 </pre>
 
