@@ -52,7 +52,7 @@ creando de a poco
 <br>
 <br>
 lugares para llegar
-  <em>
+  </em>
  </p>
 </div>
 
