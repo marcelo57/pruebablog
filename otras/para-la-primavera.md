@@ -66,6 +66,8 @@ Aunque es duro, esta separación nos permite situarnos lejos de los circuitos de
 
 El tiempo en soledad hace crecer una voz y el contenido que con ella compartirá, por medio de la práctica de un arte (sea la guitarra, el movimiento, la pintura, la escritura, la reflexión, el vivir, el amar... tantas formas reconocidas y por reconocer) se cultivan lxs cuerpxs, que adquieren una sensibilidad que es importantísima, **porque es la habilidad (saber/hacer) de dejarse afectar (sentir)**, lo que permitirá posteriormente, el encuentro de las múltiples soledades.
 
+<br>
+
 <div>
  <p style="text-align:right;">
   <em>
