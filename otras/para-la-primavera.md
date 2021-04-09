@@ -22,11 +22,13 @@ date: 2021-03-23 03:43:06
 
 <br>
 
-En sus inicios el internet prometía libertad, la capacidad de conectar nuestras máquinas para que intercambiaran mensajes, una plataforma en la que cualquiera podia echar a correr su creatividad. Programar los estímulos que se materializan en una pantalla y unos parlantes, **plantar nuestro mensaje como el nodo de una gran red**, un universo de puertas que dan a muchos jardines, como una ventana por la cual asomarse a ver los paisajes de múltiples planetas.
+En sus inicios el internet prometía libertad, la capacidad de conectar nuestras máquinas para que intercambiaran mensajes, una plataforma en la que cualquiera podia echar a correr su creatividad.
+
+Programar los estímulos que se materializan en una pantalla y unos parlantes, **plantar nuestro mensaje como el nodo de una gran red**, un universo de puertas que dan a muchos jardines, como una ventana por la cual asomarse a ver los paisajes de múltiples planetas.
 
 Se logró, vimos destellos relevantes, pero olvidamos lo genial que era y pareciera que nadie más pudo volver a verlo de nuevo.
 
-Estos aparatos desarrollaron, paso a paso, una interfaz sobre su código, **crecieron bocas que hoy se encargan de traducir la máquina al humano y el humano a la máquina**. Las computadoras por medio de sus interfaces (sus disfraces de humanidad) se presentan en nuestros términos, nos dicen y preguntan cosas en nuestros idiomas, nos estimulan, se coordinan con nuestras vidas y nos dejan pidiendo más.
+Estos aparatos desarrollaron, paso a paso, una interfaz sobre su código, **crecieron bocas que hoy se encargan de traducir la máquina al humano y el humano a la máquina**. Las computadoras por medio de sus interfaces (sus trajes de humanidad) se presentan en nuestros términos, nos dicen y preguntan cosas en nuestros idiomas, nos estimulan, se coordinan con nuestras vidas y nos dejan pidiendo más.
 
 En este viaje las computadoras han aprendido sobre el humano, como codificarlo para interactuar en sus dominios, pero **¿qué hemos aprendido lxs humanxs?** Mientras más profundamente nos relacionamos (humanx-máquina), más extraños nos volvemos, más invisible se vuelve la organización de esta tecnología, **la simpleza de una máquina que solo recibe instrucciones**, desapareció en un mar de complejidad forzada. Hoy la tecnología nos toca, pero nosotros solo rozamos su pantalla.
 
