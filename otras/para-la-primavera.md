@@ -36,15 +36,27 @@ A pesar de todo y casi como un hallazgo arqueológico, en muchos rincones, bajo 
 
 <br>
 
-*Y así vamos por la vida*
+<div>
+ <p style="text-align:right;">
+  <em>
+Y así vamos por la vida
+<br>
+<br>
+perdidos
+<br>
+<br>
+pero encontrándonos
+<br>
+<br>
+creando de a poco
+<br>
+<br>
+lugares para llegar
+  <em>
+ </p>
+</div>
 
-*perdidos*
-
-*pero encontrándonos*
-
-*creando de a poco*
-
-*lugares para llegar*
+<br>
 
 La búsqueda, práctica y reflexión de artes no hegemónicas, en nuestros tiempos, nos pone de frente, en un momento u otro, con la soledad. **Es el camino de tantxs que en un intento desafiante de conservar los haceres y saberes que les sirven de aliento en sus vidas, rompen con las convenciones y los modos de ser dominantes** (a veces lentamente, a veces de golpe), y se ven acechados por la incomprensión y la frialdad de un mundo construido para aislar la diferencia.
 
@@ -55,7 +67,8 @@ Aunque es duro, esta separación nos permite situarnos lejos de los circuitos de
 El tiempo en soledad hace crecer una voz y el contenido que con ella compartirá, por medio de la práctica de un arte (sea la guitarra, el movimiento, la pintura, la escritura, la reflexión, el vivir, el amar... tantas formas reconocidas y por reconocer) se cultivan lxs cuerpxs, que adquieren una sensibilidad que es importantísima, **porque es la habilidad (saber/hacer) de dejarse afectar (sentir)**, lo que permitirá posteriormente, el encuentro de las múltiples soledades.
 
 <div>
- <em>
+ <p style="text-align:right;">
+  <em>
 Entre salvajes
 <br>
 <br>
@@ -72,7 +85,8 @@ Esto es:
 <br>
 <br>
 la búsqueda del primer encuentro latinoamericano de la soledad!
- </em>
+  </em>
+ </p>
 </div>
 
 <br>
