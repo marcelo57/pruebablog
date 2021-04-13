@@ -68,7 +68,7 @@ Los textos que hemos agrupado bajo este título son el fruto de múltiples refle
 
 ¡Desde ya sientan el alivio de haber encontrado algo!
 <div>
- <p style="text-align:right;">
+ <p style="text-align:center;">
 Sientan
  <br>
   <em>
