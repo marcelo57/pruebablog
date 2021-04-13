@@ -64,11 +64,15 @@ Mapa del sítio:
 
 </pre>
 
-Los textos que hemos agrupado bajo este título son el fruto de múltiples reflexiones, conversaciones e intercambios hackers que sus autores mantuvieron previo a parir esta *guarida virtual*. Explican el por qué estás aquí. 
+Los textos que hemos agrupado bajo este título son el fruto de múltiples reflexiones, conversaciones e intercambios hackers que sus autores mantuvieron previo a parir esta *guarida virtual*. Explican el por qué estás aquí.
 
 ¡Desde ya sientan el alivio de haber encontrado algo!
 
-Sientan **la Bienvenida:**
+Sientan
+
+`la Bienvenida`:
+
+<br>
 
 ## [Para la primavera que se acerca](/pruebablog/otras/para-la-primavera) de mar_celo
 
