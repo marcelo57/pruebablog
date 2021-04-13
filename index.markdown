@@ -67,10 +67,18 @@ Mapa del sítio:
 Los textos que hemos agrupado bajo este título son el fruto de múltiples reflexiones, conversaciones e intercambios hackers que sus autores mantuvieron previo a parir esta *guarida virtual*. Explican el por qué estás aquí.
 
 ¡Desde ya sientan el alivio de haber encontrado algo!
-
+<div>
+ <p style="text-align:right;">
 Sientan
+ <br>
+  <em>
+   la Bienvenida:
+  </em>
+ </p>
+</div>
 
-`la Bienvenida`:
+
+
 
 ## [Para la primavera que se acerca](/pruebablog/otras/para-la-primavera) de mar_celo
 
